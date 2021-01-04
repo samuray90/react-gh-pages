@@ -6,6 +6,10 @@ body {
   background-color: rgb(240, 240, 240);
 }
 
+.app__left {
+  flex: 0.9;
+}
+
 .app {
   display: flex;
   justify-content: space-evenly;
