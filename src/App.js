@@ -12,7 +12,7 @@ function App() {
           <MenuItem value="worldwide">Worldwide</MenuItem>
           <MenuItem value="worldwide">Option Two</MenuItem>
           <MenuItem value="worldwide">Option three</MenuItem>
-          <MenuItem value="worldwide">EU</MenuItem>
+          <MenuItem value="worldwide">EU-2021</MenuItem>
         </Select>
       </FormControl>
       </div>
